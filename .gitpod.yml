@@ -1,6 +1,5 @@
-image:
-    # gitpod/workspace-full-vnc
-    file: Dockerfile
+# image: gitpod/workspace-full-vnc
+file: Dockerfile
 
 #ports:
 #    - port: 5000
